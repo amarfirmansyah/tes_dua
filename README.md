@@ -3,7 +3,7 @@
 ### Petunjuk Instalasi
 1. **Clone repositori ini**:
    ```
-   https://github.com/amarfirmansyah/tes_satu
+   https://github.com/amarfirmansyah/tes_dua
 2. **Masuk ke direktori**:
     ```
    cd tes_satu
